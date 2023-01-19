@@ -1,5 +1,5 @@
 # PicEncrypt
-[Mobill App (Android)](http://github.com/goldsudo/picencryptapp)
+[Mobile App (Android)](http://github.com/goldsudo/picencryptapp)
 [Online Version](https://picencrypt.github.io)
 PicEncrypt - The modern picture encrypter
 
